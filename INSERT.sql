@@ -10,5 +10,5 @@ VALUE (4158, ASIR, equipada con equipos informaticos, 34);
 INSERT INTO EDIFICIO4 (nombre, descrpcion)
 VALUE (edificio 2, es el mas nuevo y tiene 3 plantas, en el estan los grados superiores);
 
-INSERT INTO EDIFICIO4 (nombre, descrpcion)
+INSERT INTO EDIFICIO20 (nombre, descrpcion)
 VALUE (edificio 1, es el mas nuevo y tiene 5 plantas, en el estan los grados superiores);
